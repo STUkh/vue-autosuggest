@@ -39,12 +39,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/educents/vue-autosuggest.git"
+    "url": "https://github.com/STUkh/vue-autosuggest.git"
   },
   "bugs": {
-    "url": "https://github.com/educents/vue-autosuggest/issues"
+    "url": "https://github.com/STUkh/vue-autosuggest/issues"
   },
-  "homepage": "https://github.com/educents/vue-autosuggest#readme",
+  "homepage": "https://github.com/STUkh/vue-autosuggest#readme",
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"
